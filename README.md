@@ -79,7 +79,7 @@ blobythingy/
 ## Configuration Files
 
 - **next.config.ts** - Next.js configuration
-- **vite.config.ts** - Vite bundler configuration
+- **vite.config.ts** - Vite configuration (installed as requested; Next.js uses its own bundler by default)
 - **postcss.config.mjs** - PostCSS configuration for Tailwind
 - **tsconfig.json** - TypeScript compiler options
 - **eslint.config.mjs** - ESLint configuration
